@@ -1,5 +1,5 @@
 {
-    "name": "raj",
+    "name": "@rajmohan6268/raj",
     "version": "1.3.3",
     "private": false,
     "scripts": {
@@ -15,10 +15,10 @@
     "license": "mit",
     "repository": {
         "type": "git",
-        "url": "git://github.com/rajmohan6268/raj.git."
+        "url": "git:https://github.com/rajmohan6268/raj.git."
     },
     "publishConfig": {
-        "registry": "https://npm.pkg.github.com/"
+        "registry": "https://github.com/"
     },
     "devDependencies": {
         "@vue/cli-plugin-babel": "~4.5.0",
@@ -64,6 +64,6 @@
     "bugs": {
         "url": "https://github.com/rajmohan6268/raj/issues"
     },
-    "homepage": "https://github.com/rajmohan6268/raj#readme",
+    "homepage": "https://github.com/rajmohan6268/raj",
     "main": "babel.config.js"
 }
