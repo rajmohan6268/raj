@@ -1,7 +1,7 @@
 {
     "name": "raj",
     "version": "0.1.0",
-    "private": true,
+    "private": false,
     "scripts": {
         "serve": "vue-cli-service serve",
         "build": "webpack --config config/webpack.config.js",
@@ -10,6 +10,15 @@
     "dependencies": {
         "core-js": "^3.6.5",
         "vue": "^2.6.11"
+    },
+    "author": "raj",
+    "license": "mit",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/rajmohan6268/raj.git"
+    },
+    "publishConfig": {
+        "registry": "https://npm.pkg.github.com/"
     },
     "devDependencies": {
         "@vue/cli-plugin-babel": "~4.5.0",
@@ -50,5 +59,12 @@
         "> 1%",
         "last 2 versions",
         "not dead"
-    ]
+    ],
+    "description": "## Project setup ``` yarn install ```",
+    "bugs": {
+        "url": "https://github.com/rajmohan6268/raj/issues"
+    },
+    "homepage": "https://github.com/rajmohan6268/raj#readme",
+    "main": "babel.config.js"
+
 }
