@@ -1,5 +1,5 @@
 {
-    "name": "raj",
+    "name": "@rajmohan6268/raj",
     "version": "0.1.0",
     "private": false,
     "scripts": {
@@ -11,11 +11,11 @@
         "core-js": "^3.6.5",
         "vue": "^2.6.11"
     },
-    "author": "raj",
+    "author": "rajmohan6268",
     "license": "mit",
     "repository": {
         "type": "git",
-        "url": "git://github.com/rajmohan6268/raj.git"
+        "url": "git://github.com/rajmohan6268/raj.git."
     },
     "publishConfig": {
         "registry": "https://npm.pkg.github.com/"
